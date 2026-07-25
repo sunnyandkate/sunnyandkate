@@ -1,75 +1,67 @@
-<!-- KEY CONFIG: METADATA PROFILE MATRIX -->
+<!-- METADATA PROFILE MATRIX -->
 <div align="center">
   
-  <h1>🛸 KATHRIN MARKWORTH</h1>
-  <p><b>[ LEVEL 1 GAME DEVELOPER & SOFTWARE ENGINEER ]</b></p>
-  <p>📍 Flensburg, Germany | 📬 sunnyandkate@icloud.com</p>
-
- <!-- NATIVE PALETTE BLOCKS (NO EXTERNAL IMAGES REQUIRED) -->
-
-| Canvas Color | Text & Main | Accent Divider | Mint Element |
-| :---: | :---: | :---: | :---: |
-| <code style="background-color: #e6e6fa; color: #4a3b4c; padding: 6px 12px; border: 1px solid #4a3b4c;">#e6e6fa</code> | <code style="background-color: #4a3b4c; color: #fdfbf7; padding: 6px 12px; border: 1px solid #ff9ebb;">#4a3b4c</code> | <code style="background-color: #ff9ebb; color: #4a3b4c; padding: 6px 12px; border: 1px solid #4a3b4c;">#ff9ebb</code> | <code style="background-color: #8cc5b2; color: #4a3b4c; padding: 6px 12px; border: 1px solid #4a3b4c;">#8cc5b2</code> |
-| Pastel Lavender | Muted Plum | Pink-Magenta | Soft Mint |
+  <h1>🛸 Hey, I'm Kathrin</h1>
+  <p><b>[ Junior Game Developer & Software Engineer ]</b></p>
+  <p>📍 Flensburg, Germany │ 📬 sunnyandkate@icloud.com</p>
 
 
-  <br><br>
+
+  <br>
   
-  🎮 <b>[Playable Builds]</b> <a href="https://itch.io" target="_blank">sunnyandkate.itch.io</a> │ 🌐 <b>[Brand Hub]</b> <a href="https://github.io" target="_blank">sunnyandkate.github.io</a>
+  🕹️ <b>[Play my games]</b> <a href="https://itch.io" target="_blank">sunnyandkate.itch.io</a> │ 🌐 <b>[Check my portfolio]</b> <a href="https://github.io" target="_blank">sunnyandkate.github.io</a>
 
 </div>
 
 ---
 
-### 🌿 PROFILE OVERVIEW
+### 👋 About Me
 Software Developer and Game Engineer with a genuine passion for bridging the gap between clean backend code and creative 2D artwork. Backed by a formal Java certification and four years of hands-on, self-directed building, this profile brings comfort in jump-starting applications from scratch, handling database connections, and turning raw game logic into smooth, playable realities. Thriving on solving tricky bugs, adapting to lightweight terminal setups, and bringing absolute reliability to creative tech teams is what drives this work.
 
 ---
 
-### 🎛️ CORE SYSTEM MANIFEST (TECHNICAL STACKS)
+### 🎛️ My Toolbox (The Tech Stack)
 
 ```text
 +------------------------------------+  +------------------------------------+
 
-|  LOGIC STACKS                      |  |  ENVIRONMENTS & TOOLS              |
+|  LANGUAGES & DATABASES             |  |  ENVIRONMENTS & IDEs               |
 +------------------------------------+  +------------------------------------+
 
-|  > Java (Certified OOP)            |  |  > Unix Terminal Controls          |
-|  > C# (Unity Engine Frameworks)    |  |  > Visual Studio / Eclipse IDE     |
-|  > JavaScript (ES6+) / PHP Core    |  |  > Emacs Text Environment          |
-|  > HTML5 / CSS3 / Relational MySQL |  |  > Git Tracking / GitHub Pages     |
+|  [■] Java (Certified OOP)          |  |  [⚡] Terminal (Command Line) |
+|  [■] C# / Unity Engine             |  |  [⚡] Visual Studio                |
+|  [■] JavaScript (ES6+) / PHP Core  |  |  [⚡] Eclipse IDE                  |
+|  [■] HTML5 / CSS3 / MySQL          |  |  [⚡] Emacs Text Workspace         |
 +------------------------------------+  +------------------------------------+
 
 +------------------------------------+  +------------------------------------+
 
-|  RENDER PIPELINE (ART ASSETS)      |  |  HUMAN CORE UTILITIES              |
+|  ART PIPELINE & DESIGN             |  |  MORE ABOUT ME                     |
 +------------------------------------+  +------------------------------------+
 
-|  > Aseprite Vectoring Controls     |  |  > German (Native Speaker Layer)   |
-|  > 2D Pixel Art & Wireframes       |  |  > English (Fluent Interface Track)|
-|  > Sprite Sheets & Animation       |  |  > Spanish (Basic Key Syntax)      |
-|  > Grid-Based Tilemap Mapping      |  |  > Certified Yoga & Fitness Coach  |
+|  [🎨] Aseprite Sprite Creation     |  |  [🌐] German (Native Speaker)      |
+|  [🎨] 2D Pixel Art & Layouts       |  |  [🌐] English (Fluent)             |
+|  [🎨] Sprite Sheet Animation       |  |  [🌐] Certified Yoga Instructor    |
+|  [🎨] Grid-Based Tilemap Maps      |  |  [🌐] Certified Fitness Trainer    |
 +------------------------------------+  +------------------------------------+
 ```
 
 ---
 
-### 🎮 ACTIVE EVIDENCE: PRODUCTION RUNTIMES
+### 🎮 Games I've Shipped
 
 #### 🐱 Cat Detective
-* **Pipeline Environment:** Unity Engine | C# Core | Terminal | Visual Studio
-* Engineered a 2D web-adventure build optimized for seamless browser WebGL performance.
-* Programmed modular C# scripts to manage velocity vectors, custom colliders, and physics boundaries.
+* **Tools used:** `Unity Engine` │ `C#` │ `Terminal` │ `Visual Studio`
+* Built a 2D top-down web adventure game optimized to load instantly in a desktop web browser using WebGL.
+* Scripted all the structural grid mechanics, tile collision borders, character movement vectors, and pixel bounding physics.
 
 #### 🧘 YogaCatAdventure
-* **Pipeline Environment:** Unity Engine | C# Update Loops | State Machine Management
-* Architected standalone update loops, state-management logic, and data tracking persistence triggers.
-* Utilized Aseprite to design and frame-animate all original character sheets, sprite assets, and environmental tilemaps.
+* **Tools used:** `Unity Engine` │ `C#`
+* Designed the core gameplay mechanics, player property trackers, and item collection triggers.
+* Hand-drew and frame-animated every single asset, cat sprite, and environmental background tileset inside Aseprite.
 
 ---
 
-### 🛠️ CURRENT PRODUCTION SPRINT
-* Refactoring web application parameters via local **Emacs** terminals.
-* Building clean desktop utilities using **JavaFX** asset containers and transactional **MySQL** inputs.
-
-
+### 🛠️ What I'm Working On Right Now
+* Polishing up my responsive web structures using local **Emacs** command line layouts.
+* Writing clean modular backend software utilities, Object-Oriented script structures, and data parsers in **Java** backed by relational **MySQL** databases.
