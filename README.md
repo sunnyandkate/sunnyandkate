@@ -5,11 +5,13 @@
   <p><b>[ LEVEL 1 GAME DEVELOPER & SOFTWARE ENGINEER ]</b></p>
   <p>📍 Flensburg, Germany | 📬 sunnyandkate@icloud.com</p>
 
-  <!-- PALETTE COORDINATES BADGES -->
-  <img src="https://shields.io" alt="Lavender BG" />
-  <img src="https://shields.io" alt="Muted Plum" />
-  <img src="https://shields.io" alt="Pastel Magenta" />
-  <img src="https://shields.io" alt="Pastel Mint" />
+ <!-- NATIVE PALETTE BLOCKS (NO EXTERNAL IMAGES REQUIRED) -->
+
+| Canvas Color | Text & Main | Accent Divider | Mint Element |
+| :---: | :---: | :---: | :---: |
+| <code style="background-color: #e6e6fa; color: #4a3b4c; padding: 6px 12px; border: 1px solid #4a3b4c;">#e6e6fa</code> | <code style="background-color: #4a3b4c; color: #fdfbf7; padding: 6px 12px; border: 1px solid #ff9ebb;">#4a3b4c</code> | <code style="background-color: #ff9ebb; color: #4a3b4c; padding: 6px 12px; border: 1px solid #4a3b4c;">#ff9ebb</code> | <code style="background-color: #8cc5b2; color: #4a3b4c; padding: 6px 12px; border: 1px solid #4a3b4c;">#8cc5b2</code> |
+| Pastel Lavender | Muted Plum | Pink-Magenta | Soft Mint |
+
 
   <br><br>
   
