@@ -1,67 +1,50 @@
 <!-- METADATA PROFILE MATRIX -->
 <div align="center">
   
-  <h1>🛸 Hey, I'm Kathrin</h1>
+  <h1> Hey, I am Kate</h1>
   <p><b>[ Junior Game Developer & Software Engineer ]</b></p>
-  <p>📍 Flensburg, Germany │ 📬 sunnyandkate@icloud.com</p>
-
-
-
   <br>
   
   🕹️ <b>[Play my games]</b> <a href="https://itch.io" target="_blank">sunnyandkate.itch.io</a> │ 🌐 <b>[Check my portfolio]</b> <a href="https://github.io" target="_blank">sunnyandkate.github.io</a>
 
 </div>
 
----
 
-### 👋 About Me
-Software Developer and Game Engineer with a genuine passion for bridging the gap between clean backend code and creative 2D artwork. Backed by a formal Java certification and four years of hands-on, self-directed building, this profile brings comfort in jump-starting applications from scratch, handling database connections, and turning raw game logic into smooth, playable realities. Thriving on solving tricky bugs, adapting to lightweight terminal setups, and bringing absolute reliability to creative tech teams is what drives this work.
+<div>
+  <h2>About Me</h2>
+  <p>Junior Game Developer and Software Engineer with a passion to create helpful tools and relaxing games.
+    I love building things from scratch, be it by drawing 2D Art in Aseprite or building games in Java.
+  </p>
+  <h2>My Tech Stack</h2>
+  <ul style="list-style: none;">
+    <li>** Programming & Scripting: Java, C#, JavaScript, PHP</li>
+    <li>** Database & Markup: MySQL, HTML5, CSS3</li>
+    <li>** Game Development & Design: Unity, Aseprite, 2D Pixel Art, Tilemaps, Spritesheets</li>
+    <li>** Environments & IDEs: Terminal, Emacs, Visual Studio, Eclipse</li>
+  </ul>
+  <h2>Games Build</h2>
+  <div>
+    <h3>Cat Detective</h3>
+    <ul style="list-style: none;">
+      <li>A 2D investigative top-down game build for a game jam. Features interactive clue discovery</li>
+      <li>Play it here: <a href="https://sunnyandkate.itch.io/cat-detective">Cat Detective Game</a></li>
+    </ul>
+  </div>
+  <div>
+    <h3>Yoga Cat Adventure</h3>
+    <ul style="list-style: none;">
+      <li>A calm 2D game with a quest and some exploring</li>
+      <li>Play it here: <a href="https://sunnyandkate.itch.io/yogacatadventure">Yoga Cat Adventure Game</a></li>
+    </ul>
+  </div>
+  <div>
+    <h3>Connect With Me</h3>
+    <ul style="list-style: none;">
+      <li>Website:<a href="https://sunnyandkate.github.io"> sunnyandkate.github.io</a></li>
+      <li>My Games: <a href="https://sunnyandkate.itch.io"> sunnyandkate.itch.io</a></li>
+      <li>Email: <a href="mailto:sunnyandkate@icloud.coom"> sunnyandkate@icloud.com</a></li>
+    </ul>
+  </div>
+  
+</div>
 
----
-
-### 🎛️ My Toolbox (The Tech Stack)
-
-```text
-+------------------------------------+  +------------------------------------+
-
-|  LANGUAGES & DATABASES             |  |  ENVIRONMENTS & IDEs               |
-+------------------------------------+  +------------------------------------+
-
-|  [■] Java (Certified OOP)          |  |  [⚡] Terminal (Command Line) |
-|  [■] C# / Unity Engine             |  |  [⚡] Visual Studio                |
-|  [■] JavaScript (ES6+) / PHP Core  |  |  [⚡] Eclipse IDE                  |
-|  [■] HTML5 / CSS3 / MySQL          |  |  [⚡] Emacs Text Workspace         |
-+------------------------------------+  +------------------------------------+
-
-+------------------------------------+  +------------------------------------+
-
-|  ART PIPELINE & DESIGN             |  |  MORE ABOUT ME                     |
-+------------------------------------+  +------------------------------------+
-
-|  [🎨] Aseprite Sprite Creation     |  |  [🌐] German (Native Speaker)      |
-|  [🎨] 2D Pixel Art & Layouts       |  |  [🌐] English (Fluent)             |
-|  [🎨] Sprite Sheet Animation       |  |  [🌐] Certified Yoga Instructor    |
-|  [🎨] Grid-Based Tilemap Maps      |  |  [🌐] Certified Fitness Trainer    |
-+------------------------------------+  +------------------------------------+
-```
-
----
-
-### 🎮 Games I've Shipped
-
-#### 🐱 Cat Detective
-* **Tools used:** `Unity Engine` │ `C#` │ `Terminal` │ `Visual Studio`
-* Built a 2D top-down web adventure game optimized to load instantly in a desktop web browser using WebGL.
-* Scripted all the structural grid mechanics, tile collision borders, character movement vectors, and pixel bounding physics.
-
-#### 🧘 YogaCatAdventure
-* **Tools used:** `Unity Engine` │ `C#`
-* Designed the core gameplay mechanics, player property trackers, and item collection triggers.
-* Hand-drew and frame-animated every single asset, cat sprite, and environmental background tileset inside Aseprite.
-
----
-
-### 🛠️ What I'm Working On Right Now
-* Polishing up my responsive web structures using local **Emacs** command line layouts.
-* Writing clean modular backend software utilities, Object-Oriented script structures, and data parsers in **Java** backed by relational **MySQL** databases.
