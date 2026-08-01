@@ -5,7 +5,7 @@
   <p><b>[ Junior Game Developer & Software Engineer ]</b></p>
   <br>
   
-  🕹️ <b>[Play my games]</b> <a href="https://itch.io" target="_blank">sunnyandkate.itch.io</a> │ 🌐 <b>[Check my portfolio]</b> <a href="https://github.io" target="_blank">sunnyandkate.github.io</a>
+  🕹️ <b>[Play my games]</b> <a href="https://sunnyandkate.itch.io" target="_blank">sunnyandkate.itch.io</a> │ 🌐 <b>[Check my portfolio]</b> <a href="https://sunnyandkate.github.io" target="_blank">sunnyandkate.github.io</a>
 
 </div>
 
