@@ -17,10 +17,10 @@
   </p>
   <h2>My Tech Stack</h2>
   <ul style="list-style: none;">
-    <li>** Programming & Scripting: Java, C#, JavaScript, PHP</li>
-    <li>** Database & Markup: MySQL, HTML5, CSS3</li>
-    <li>** Game Development & Design: Unity, Aseprite, 2D Pixel Art, Tilemaps, Spritesheets</li>
-    <li>** Environments & IDEs: Terminal, Emacs, Visual Studio, Eclipse</li>
+    <li>Programming & Scripting: Java, C#, JavaScript, PHP</li>
+    <li>Database & Markup: MySQL, HTML5, CSS3</li>
+    <li>Game Development & Design: Unity, Aseprite, 2D Pixel Art, Tilemaps, Spritesheets</li>
+    <li>Environments & IDEs: Terminal, Emacs, Visual Studio, Eclipse</li>
   </ul>
   <h2>Games Build</h2>
   <div>
