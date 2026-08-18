@@ -20,7 +20,7 @@
     <li>Programming & Scripting: Java, C#, JavaScript, PHP</li>
     <li>Database & Markup: MySQL, HTML5, CSS3</li>
     <li>Game Development & Design: Unity, Aseprite, 2D Pixel Art, Tilemaps, Spritesheets</li>
-    <li>Environments & IDEs: Terminal, Emacs, Visual Studio, Eclipse</li>
+    <li>Environments & IDEs: Terminal, Emacs, VS Code, Eclipse</li>
   </ul>
   <h2>Games Build</h2>
   <div>
